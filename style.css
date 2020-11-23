@@ -211,7 +211,7 @@ section .title::after{
 
 /* about section styling */
 .about .title::after{
-    content: "MixMaster";
+    content: "DjSaM";
 }
 .about .about-content .left{
     width: 45%;
@@ -455,7 +455,7 @@ section .title::after{
 
 /* Contact Section Styles */
 .contact .title::after{
-    content: "Below";
+    content: "DjSaM";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);

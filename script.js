@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Hot"],
+        strings: ["DjSaM ?"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
