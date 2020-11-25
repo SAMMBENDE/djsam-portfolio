@@ -258,9 +258,9 @@ section .title::after{
 }
 
 /* skills section styling */
-.skills {
+/* .skills {
     background-image: url(images/original.gif);
-}
+} */
 
 .skills .title::after{
     content: "Avec DjSaM";
