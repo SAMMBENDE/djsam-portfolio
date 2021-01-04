@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Loop-Master", "Jogwheel wizard", "Grand Maitre"],
+        strings: ["Loop-Master", "Grand Maitre"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
