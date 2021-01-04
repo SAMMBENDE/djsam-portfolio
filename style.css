@@ -355,6 +355,7 @@ section .title::after{
 .projects .carousel .card:hover{
     background: crimson;
 }
+
 .projects .carousel .card .box{
     display: flex;
     flex-direction: column;
